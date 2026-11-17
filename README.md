@@ -1,4 +1,6 @@
-## Agung Gunawan 👋
+## Hallo Word I'm Agung Gunawan From👋😍
+
+![Agung Gunawan](agung.jpeg)
 
 <!--
 **AgungGunawan3112/agunggunawan3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+ I’m currently working on **@wpucourse**
+ I’m currently learning [**Laravel**](https://laravel.com) Framework
+ 🤣🤣🤣🤣
+ 
